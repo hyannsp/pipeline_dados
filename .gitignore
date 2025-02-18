@@ -1,0 +1,12 @@
+# Ignorar __pycache__ em qualquer nível
+**/__pycache__/
+**/*.py[cod]
+
+# Ignorar venv em qualquer nível
+**/venv/
+**/env/
+
+# Arquivos temporários ou de backup comuns
+*.swp
+*.swo
+*~
